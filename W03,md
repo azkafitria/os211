@@ -1,0 +1,33 @@
+---
+permalink: /W03/
+---
+# Top 10 List of Week 03
+1. [File System in OS](https://www.tutorialspoint.com/operating_system/os_file_system.htm)<br>
+  Website ini menyediakan rangkuman penjelasan mengenai sistem file yang cukup lengkap mudah dipahami.
+
+2. [Volumes in Docker](https://blog.container-solutions.com/understanding-volumes-docker)<br>
+  Pada blog ini dijelaskan mengenai docker volume dan cara inisialisasinya.
+
+3. [Virtual File System in Linux](https://opensource.com/article/19/3/virtual-filesystems-linux)<br>
+  Laman ini menjelaskan mengenai cara kerja virtual file system pada linux.
+
+4. [Free Space Management](https://dextutor.com/free-space-list-management/)<br>
+  Web ini menrangkum penjelasan mengenai implementasi free-space list itu ada apa saja beserta masing-masing keuntungannya. Di dalam web ini juga disertakan penjelasan dalam bentuk slide powerpoint.
+
+5. [Partitions, File Systems, Formatting, Mounting](http://wwwacs.gantep.edu.tr/docs/rute/node22.html)<br>
+  Halaman ini menjelaskan tentang cara mempartisi disk , mounting, dan formatting device. Penjelasannya lengkap dengan command-command yang harus dijalankannya.
+
+6. [Allocation methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
+  Website ini menjelaskan mengenai macam-macam metode alokasi file beserta keuntungan yang diperoleh dari masing-masing metode. Penjelasannya cukup mudah dipahami karena terdapat ilustrasi visualnya.
+
+7. [Directory Structure](https://www.tutorialandexample.com/directory-structure-in-operating-system/)<br>
+  Pada website dijelaskan mengenai apa itu directory, operasi apa saja yang dapat kita lakukan pada directory, dan tipe-tipe strukturnya. Penjelasan mengenai tipe-tipe strukturnya sangat lengkap karena tidak hanya keuntungannya saja namun juga kelemahan dari tiap strukturnya juga dijelaskan.
+
+8. [Mounting in Linux](https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/)<br>
+  Disini dijelaskan cara melakukan mount berbagai macam file beserta command-command yang harus dijalankannya. Selain itu juga terdapat cara melakukan unmount file system.
+
+9. [File Control Block](https://www.easytechjunkie.com/what-is-a-file-control-block.htm)<br>
+  Website ini menjelaskan tentang apa itu file control block. Penjelasannya singkat dan mudah dipahami.
+
+10. [Consistency Semantics](https://www.geeksforgeeks.org/consistency-semantics-for-file-sharing/#:~:text=Consistency%20Semantics%20is%20concept%20which,file%20and%20at%20same%20time.)<br>
+  Pada website ini dijelaskan mengenai beberapa macam consistency semantic.

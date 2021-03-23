@@ -2,6 +2,6 @@
 layout: "layout"
 ---
 
-Hi!
+Hi everyone!
 
 This is {{ site.title }} and I am {{ site.author }}.

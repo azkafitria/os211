@@ -12,7 +12,7 @@ nav ul li{
     display: inline;
     margin-right: 20px;
 }
-a {
+a, .copyright {
     text-decoration: none;
     color: #999;
 }

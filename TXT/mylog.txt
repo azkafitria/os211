@@ -19,3 +19,7 @@ ZCZC W03 10 L00 General Log
 ZCZC W03 90 L02 ZOOM: Thursday class
 ZCZC W03 96 L05 GSGS Related
 ZCZC W03 60 L10 Assignment
+ZCZC W04 10 L00 General Log
+ZCZC W04 90 L02 ZOOM: Thursday class
+ZCZC W04 50 L10 Assignment
+ZCZC W02 60 L05 GSGS related
